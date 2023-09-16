@@ -6,7 +6,7 @@
 # 1. pkg update -y && upgrade -y
 # 2. pkg install git -y python -y
 # 3. pip install requests bs4 
-# 5. cd satoshi
+# 5. cd DXX
 # 6. python3 DXX.py
 
 
